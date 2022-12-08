@@ -8,9 +8,9 @@ It's definitely not a comprehensive use of what C++ offers as a language. I have
 
 ## Assignments Overview:
 
-* Assignment 1  - The classic "Hello World". I didn't even bothered uploading it.
+* Assignment 1  - The classic "Hello World". I didn't even bother uploading it.
 * Assignment 2  - Basics: loops, writing expressions, using functions, etc.
-* Assignment 3  - Basics: same as 2, but a user type definition is included.
+* Assignment 3  - Basics: same as 2, mostly.
 * Assignment 4  - Containers: the point of the assignment is to choose the most appropriate container for a specific scenario.
 * Assignment 5  - Containers: same as 4.
 * Assignment 6  - User classes definition (also how to organize a project in different files).
