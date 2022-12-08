@@ -1,0 +1,6 @@
+﻿  Assignment3-1-1.cpp
+C:\Users\Roberto\source\repos\Assignment3-1-1\Assignment3-1-1\Assignment3-1-1.cpp(28,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Roberto\source\repos\Assignment3-1-1\Assignment3-1-1\Assignment3-1-1.cpp(36,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Roberto\source\repos\Assignment3-1-1\Assignment3-1-1\Assignment3-1-1.cpp(37,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Roberto\source\repos\Assignment3-1-1\Assignment3-1-1\Assignment3-1-1.cpp(49,18): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Roberto\source\repos\Assignment3-1-1\Assignment3-1-1\Assignment3-1-1.cpp(49,31): warning C4018: '<': signed/unsigned mismatch
