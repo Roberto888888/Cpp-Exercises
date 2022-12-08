@@ -1,0 +1,2 @@
+C:\Users\Roberto\source\repos\Assignment10\x64\Debug\Assignment10.exe.lastcodeanalysissucceeded
+C:\Users\Roberto\source\repos\Assignment10\Assignment10\x64\Debug\NativeCodeAnalysis.read.1.tlog
